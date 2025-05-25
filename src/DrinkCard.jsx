@@ -1,5 +1,4 @@
 import React from 'react';
-import './drinkCard.css';
 
 const DrinkCard = ({ drink }) => {
   return (

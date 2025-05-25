@@ -78,3 +78,41 @@ body, html {
   bottom: 0;
   background-image: url('data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAsNTAgQzQwMCwwIDgwMCw1MCAxNjAwLDAgTDE2MDAsMTAwIEwwIDEwMCBaIiBmaWxsPSIjZTVlZmZmIi8+PC9zdmc+');
 }
+.drink-card {
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+  margin: 16px;
+  transition: transform 0.2s;
+  max-width: 400px;
+}
+
+.drink-card:hover {
+  transform: scale(1.02);
+}
+
+.drink-name {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.drink-description {
+  color: #666;
+  margin-bottom: 16px;
+}
+
+.ingredients {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.ingredient-tag {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 6px 12px;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+}
