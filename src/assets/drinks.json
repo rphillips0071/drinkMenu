@@ -7,6 +7,55 @@
     "dessert": false
   },
   {
+    "id": 25,
+    "name": "Piña Colada",
+    "ingredients": ["2 oz rum", "1 oz cream of coconut", "1 oz pineapple juice", "½ cup ice"],
+    "description": "Creamy coconut and pineapple blended into the ultimate island escape.",
+    "dessert": false
+  },
+  {
+    "id": 26,
+    "name": "Mango Colada",
+    "ingredients": ["2 oz rum", "½ cup frozen mango", "1 oz cream of coconut", "0.5 oz lime juice"],
+    "description": "Mango-rich twist on the classic Piña Colada—fruity, creamy, and indulgent.",
+    "dessert": false
+  },
+  {
+    "id": 27,
+    "name": "Tropical Painkiller",
+    "ingredients": ["2 oz dark rum", "1 oz cream of coconut", "1 oz orange juice", "1 oz pineapple juice"],
+    "description": "Bold rum meets creamy coconut and citrus juices in this rich tropical classic.",
+    "dessert": false
+  },
+  {
+    "id": 5,
+    "name": "Minted Mango Daiquiri",
+    "ingredients": ["2 oz white rum", "1 oz mango puree", "0.75 oz lime juice", "0.5 oz agave syrup", "mint garnish"],
+    "description": "Lush mango meets cool mint and tangy lime for a breezy, tropical sip.",
+    "dessert": false
+  },
+  {
+    "id": 17,
+    "name": "Mango Daiquiri",
+    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz simple syrup", "mango puree"],
+    "description": "The pure rum-and-lime refresher.",
+    "dessert": false
+  },
+  {
+    "id": 22,
+    "name": "Frozen Mango Daiquiri",
+    "ingredients": ["2 oz white rum", "0.75 oz lime juice", "0.5 oz simple syrup", "½ cup frozen mango"],
+    "description": "Icy mango and lime blended with rum for a smooth, slushy tropical classic.",
+    "dessert": false
+  },
+  {
+    "id": 13,
+    "name": "Frozen Banana Daiquiri",
+    "ingredients": ["2 oz white rum", "1 oz 99 Bananas", "0.75 oz lime juice", "0.5 oz simple syrup"],
+    "description": "Frosty, fruity, and fun—blended banana goodness with a citrus zip.",
+    "dessert": false
+  },
+  {
     "id": 3,
     "name": "Dark & Pineapple",
     "ingredients": ["2 oz dark rum", "3 oz pineapple juice", "0.5 oz lime juice"],
@@ -21,17 +70,17 @@
     "dessert": false
   },
   {
-    "id": 5,
-    "name": "Minted Mango Daiquiri",
-    "ingredients": ["2 oz white rum", "1 oz mango puree", "0.75 oz lime juice", "0.5 oz agave syrup", "mint garnish"],
-    "description": "Lush mango meets cool mint and tangy lime for a breezy, tropical sip.",
-    "dessert": false
-  },
-  {
     "id": 6,
     "name": "Peachy Pirate Punch",
     "ingredients": ["1.5 oz dark rum", "1 oz peach schnapps", "2 oz pineapple juice"],
     "description": "Tropical sweetness replaces tea here, with pineapple juice adding a sunny, tangy twist that complements the peach and rum perfectly.",
+    "dessert": false
+  },
+  {
+    "id": 24,
+    "name": "Pineapple Cranberry Rum Punch",
+    "ingredients": ["1.5 oz white rum", "1.5 oz cranberry juice", "1.5 oz pineapple juice", "0.5 oz lime juice"],
+    "description": "A fruity punch of cranberry and pineapple with a refreshing rum kick.",
     "dessert": false
   },
   {
@@ -63,13 +112,6 @@
     "dessert": false
   },
   {
-    "id": 13,
-    "name": "Frozen Banana Daiquiri",
-    "ingredients": ["2 oz white rum", "1 oz 99 Bananas", "0.75 oz lime juice", "0.5 oz simple syrup"],
-    "description": "Frosty, fruity, and fun—blended banana goodness with a citrus zip.",
-    "dessert": false
-  },
-  {
     "id": 14,
     "name": "Classic Margarita",
     "ingredients": ["2 oz tequila", "1 oz lime juice", "0.75 oz agave syrup"],
@@ -84,10 +126,10 @@
     "dessert": false
   },
   {
-    "id": 17,
-    "name": "Mango Daiquiri",
-    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz simple syrup", "mango puree"],
-    "description": "The pure rum-and-lime refresher.",
+    "id": 23,
+    "name": "Lemon Drop Martini",
+    "ingredients": ["2 oz vodka", "1 oz lemon juice", "0.75 oz simple syrup"],
+    "description": "Bright, citrusy, and perfectly balanced between tart and sweet—served icy cold.",
     "dessert": false
   },
   {
