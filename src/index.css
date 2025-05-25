@@ -1,18 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Rubik&display=swap');
 
 body, html {
+  background-image: url('./assets/beachbar.jpg'); /* Adjust path if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
   margin: 0;
-  padding: 0;
   font-family: 'Rubik', sans-serif;
-  background: #fdfdfd;
-  color: #333;
-  position: relative;
+  overflow-x: hidden;
 }
 
 .app {
-  padding: 100px 20px 100px 20px; /* extra padding for wave visibility */
+  min-height: 100vh;
+  padding: 100px 20px;
   position: relative;
   z-index: 1;
+  box-sizing: border-box;
 }
 
 .menu-title {
@@ -20,42 +24,50 @@ body, html {
   font-family: 'Playfair Display', serif;
   font-size: 2.5rem;
   margin-bottom: 60px;
-  color: #4a2fbd;
+  color: #02b7ff;
+  position: relative;
+  z-index: 2;
 }
 
 .drink-list {
   max-width: 800px;
   margin: 0 auto;
+  position: relative;
+  z-index: 2;
 }
 
 .drink-item {
-  padding: 24px 0;
-  border-bottom: 1px solid #ccc;
+  background-color: #ffffff9a;
+  border: 5px solid #696969;
+  border-radius: 15px;
   margin-bottom: 1rem;
+  padding: 16px;
+  box-sizing: border-box;
 }
 
 .drink-name {
+  text-align: center;
   font-size: 1.75rem;
   font-weight: 600;
-  color: #ff4d6d;
+  color: #86031b;
   margin-bottom: 8px;
 }
 
 .drink-description {
   margin: 0 0 8px 0;
   font-size: 1rem;
-  color: #555;
+  line-height: 1.5rem;
+  color: #000000;
 }
 
 .drink-ingredients {
   font-size: 0.95rem;
-  color: #777;
+  color: #000000;
 }
 
 .divider {
   margin-top: 24px;
   border: none;
-  border-bottom: 1px solid #eee;
 }
 
 /* Wavy Borders */
@@ -67,6 +79,7 @@ body, html {
   position: absolute;
   left: 0;
   z-index: 0;
+  pointer-events: none;
 }
 
 .wave-top {
@@ -78,8 +91,9 @@ body, html {
   bottom: 0;
   background-image: url('data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAsNTAgQzQwMCwwIDgwMCw1MCAxNjAwLDAgTDE2MDAsMTAwIEwwIDEwMCBaIiBmaWxsPSIjZTVlZmZmIi8+PC9zdmc+');
 }
+
 .drink-card {
-  background-color: #fff;
+  background-color: #81808070;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   padding: 24px;
@@ -92,17 +106,6 @@ body, html {
   transform: scale(1.02);
 }
 
-.drink-name {
-  font-size: 1.5rem;
-  color: #333;
-  margin-bottom: 8px;
-}
-
-.drink-description {
-  color: #666;
-  margin-bottom: 16px;
-}
-
 .ingredients {
   display: flex;
   flex-wrap: wrap;
@@ -110,7 +113,6 @@ body, html {
 }
 
 .ingredient-tag {
-  background-color: #f0f0f0;
   color: #333;
   padding: 6px 12px;
   border-radius: 9999px;

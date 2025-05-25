@@ -7,8 +7,9 @@ function App() {
   return (
     <div className="app">
       <div className="wave-top" />
-      <h1 className="menu-title">Phillips Patio <br /> Drink Menu</h1>
+
       <div className="drink-list">
+              <h1 className="menu-title">Phillips Patio <br /> Drink Menu</h1>
         {drinks.map((drink, index) => (
           <div key={index} className="drink-item">
             <h2 className="drink-name">{drink.name}</h2>
