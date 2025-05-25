@@ -1,0 +1,28 @@
+// src/App.jsx
+import drinks from './assets/drinks.json';
+import DrinkCard from './DrinkCard';
+import './index.css';
+
+function App() {
+  return (
+    <div className="app">
+      <div className="wave-top" />
+      <h1 className="menu-title">Phillips Patio <br /> Drink Menu</h1>
+      <div className="drink-list">
+        {drinks.map((drink, index) => (
+          <div key={index} className="drink-item">
+            <h2 className="drink-name">{drink.name}</h2>
+            <p className="drink-description">{drink.description}</p>
+            <p className="drink-ingredients">
+              <strong>Ingredients:</strong> {drink.ingredients.join(', ')}
+            </p>
+            {index !== drinks.length - 1 && <hr className="divider" />}
+          </div>
+        ))}
+      </div>
+      <div className="wave-bottom" />
+    </div>
+  );
+}
+
+export default App;

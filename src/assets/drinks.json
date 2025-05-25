@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Mojito",
+    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz agave syrup", "6 mint leaves", "splash soda water"],
+    "description": "A light, minty refresher with zesty lime and subtle agave sweetness, topped with bubbly soda.",
+    "dessert": false
+  },
+  {
+    "id": 2,
+    "name": "Banana Colada",
+    "ingredients": ["1.5 oz dark rum", "0.75 oz 99 Bananas", "1 oz coconut cream", "2 oz pineapple juice"],
+    "description": "Creamy banana meets tropical coconut and juicy pineapple for that island-vacation vibe.",
+    "dessert": false
+  },
+  {
+    "id": 3,
+    "name": "Dark & Pineapple",
+    "ingredients": ["2 oz dark rum", "3 oz pineapple juice", "0.5 oz lime juice"],
+    "description": "Bold rum balanced by sweet pineapple and a citrus twist—simple and sun-soaked.",
+    "dessert": false
+  },
+  {
+    "id": 4,
+    "name": "Rum Sunset",
+    "ingredients": ["1.5 oz white rum", "1 oz orange liqueur", "2 oz orange juice", "dash grenadine"],
+    "description": "Layered hues of sunset in a glass—citrus sweetness with a cherry-red finish.",
+    "dessert": false
+  },
+  {
+    "id": 5,
+    "name": "Minted Mango Daiquiri",
+    "ingredients": ["2 oz white rum", "1 oz mango puree", "0.75 oz lime juice", "0.5 oz agave syrup", "mint garnish"],
+    "description": "Lush mango meets cool mint and tangy lime for a breezy, tropical sip.",
+    "dessert": false
+  },
+  {
+    "id": 6,
+    "name": "Peachy Pirate Punch",
+    "ingredients": ["1.5 oz dark rum", "1 oz peach schnapps", "2 oz pineapple juice"],
+    "description": "Tropical sweetness replaces tea here, with pineapple juice adding a sunny, tangy twist that complements the peach and rum perfectly.",
+    "dessert": false
+  },
+  {
+    "id": 7,
+    "name": "Rumberry Fizz",
+    "ingredients": ["1.5 oz white rum", "0.75 oz raspberry vodka", "2 oz lemon-lime soda"],
+    "description": "Bright raspberry tang fizzing with soda, all anchored by crisp rum.",
+    "dessert": false
+  },
+  {
+    "id": 8,
+    "name": "Buttered Banana Boat",
+    "ingredients": ["1 oz dark rum", "0.5 oz 99 Bananas", "0.5 oz butterscotch schnapps", "1 oz pineapple juice"],
+    "description": "Dessert and cocktail collide—banana and butterscotch swirl over tropical juice.",
+    "dessert": false
+  },
+  {
+    "id": 9,
+    "name": "Pineapple Amaretto Breeze",
+    "ingredients": ["1 oz white rum", "0.75 oz amaretto", "2 oz pineapple juice"],
+    "description": "Almond-kissed sweetness sails smoothly atop juicy pineapple currents.",
+    "dessert": false
+  },
+  {
+    "id": 10,
+    "name": "Tropic Tangle",
+    "ingredients": ["1 oz white rum", "1 oz sour apple schnapps", "2 oz cranberry juice"],
+    "description": "A playful twist of crisp apple and tart cranberry, bright rum tying it together.",
+    "dessert": false
+  },
+  {
+    "id": 11,
+    "name": "Chocolate Rum Cream",
+    "ingredients": ["1 oz dark rum", "0.5 oz chocolate liqueur", "1 oz Irish cream"],
+    "description": "Indulgent layers of chocolate and cream with a spirited rum kick.",
+    "dessert": false
+  },
+  {
+    "id": 12,
+    "name": "Lime Agave Mojito",
+    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.5 oz agave syrup", "mint", "soda water"],
+    "description": "Classic mint-lime refreshment, smoothed out by honeyed agave.",
+    "dessert": false
+  },
+  {
+    "id": 13,
+    "name": "Frozen Banana Daiquiri",
+    "ingredients": ["2 oz white rum", "1 oz 99 Bananas", "0.75 oz lime juice", "0.5 oz simple syrup"],
+    "description": "Frosty, fruity, and fun—blended banana goodness with a citrus zip.",
+    "dessert": false
+  },
+  {
+    "id": 14,
+    "name": "Classic Margarita",
+    "ingredients": ["2 oz tequila", "1 oz lime juice", "0.75 oz agave syrup"],
+    "description": "The ultimate tangy crush of lime and tequila.",
+    "dessert": false
+  },
+  {
+    "id": 15,
+    "name": "Whiskey Sour",
+    "ingredients": ["2 oz bourbon", "1 oz lemon juice", "0.75 oz simple syrup"],
+    "description": "Timeless balance of sweet, sour, and whiskey warmth.",
+    "dessert": false
+  },
+  {
+    "id": 16,
+    "name": "Paloma",
+    "ingredients": ["2 oz tequila", "2 oz grapefruit juice", "0.5 oz lime juice", "soda"],
+    "description": "Bitter-sweet grapefruit and tequila make for a sunny sipper.",
+    "dessert": false
+  },
+  {
+    "id": 17,
+    "name": "Mango Daiquiri",
+    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz simple syrup", "mango puree"],
+    "description": "The pure rum-and-lime refresher.",
+    "dessert": false
+  },
+  {
+    "id": 18,
+    "name": "Raspberry Tequila Sparkle",
+    "ingredients": ["1.5 oz tequila", "0.5 oz raspberry vodka", "1 oz lime juice", "0.5 oz agave syrup", "top lemon-lime soda"],
+    "description": "Berry blast meets tequila fizz for a bright, bubbly treat.",
+    "dessert": false
+  },
+  {
+    "id": 19,
+    "name": "Blue Lagoon",
+    "ingredients": ["1.5 oz vodka", "0.5 oz blue curaçao", "2 oz sour mix"],
+    "description": "Electric blue and zesty lemonade fun.",
+    "dessert": false
+  },
+  {
+    "id": 20,
+    "name": "Butterscotch Banana Cream Pie",
+    "ingredients": ["1 oz butterscotch schnapps", "0.5 oz 99 Bananas", "1 oz Irish cream", "splash half & half"],
+    "description": "Decadent, creamy, and dessert in a glass.",
+    "dessert": true
+  },
+  {
+    "id": 21,
+    "name": "Rum Cake Martini",
+    "ingredients": ["1 oz dark rum", "1 oz raspberry liqueur", "1 oz chocolate liqueur", "splash cream"],
+    "description": "Rum-soaked chocolate and berry cake flavor in a creamy martini.",
+    "dessert": true
+  }
+]
