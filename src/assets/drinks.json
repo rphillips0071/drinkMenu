@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Mojito",
-    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz agave syrup", "6 mint leaves", "splash soda water"],
-    "description": "A light, minty refresher with zesty lime and subtle agave sweetness, topped with bubbly soda.",
-    "dessert": false
-  },
-  {
     "id": 2,
     "name": "Banana Colada",
     "ingredients": ["1.5 oz dark rum", "0.75 oz 99 Bananas", "1 oz coconut cream", "2 oz pineapple juice"],
@@ -42,13 +35,6 @@
     "dessert": false
   },
   {
-    "id": 7,
-    "name": "Rumberry Fizz",
-    "ingredients": ["1.5 oz white rum", "0.75 oz raspberry vodka", "2 oz lemon-lime soda"],
-    "description": "Bright raspberry tang fizzing with soda, all anchored by crisp rum.",
-    "dessert": false
-  },
-  {
     "id": 8,
     "name": "Buttered Banana Boat",
     "ingredients": ["1 oz dark rum", "0.5 oz 99 Bananas", "0.5 oz butterscotch schnapps", "1 oz pineapple juice"],
@@ -77,13 +63,6 @@
     "dessert": false
   },
   {
-    "id": 12,
-    "name": "Lime Agave Mojito",
-    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.5 oz agave syrup", "mint", "soda water"],
-    "description": "Classic mint-lime refreshment, smoothed out by honeyed agave.",
-    "dessert": false
-  },
-  {
     "id": 13,
     "name": "Frozen Banana Daiquiri",
     "ingredients": ["2 oz white rum", "1 oz 99 Bananas", "0.75 oz lime juice", "0.5 oz simple syrup"],
@@ -105,24 +84,10 @@
     "dessert": false
   },
   {
-    "id": 16,
-    "name": "Paloma",
-    "ingredients": ["2 oz tequila", "2 oz grapefruit juice", "0.5 oz lime juice", "soda"],
-    "description": "Bitter-sweet grapefruit and tequila make for a sunny sipper.",
-    "dessert": false
-  },
-  {
     "id": 17,
     "name": "Mango Daiquiri",
     "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz simple syrup", "mango puree"],
     "description": "The pure rum-and-lime refresher.",
-    "dessert": false
-  },
-  {
-    "id": 18,
-    "name": "Raspberry Tequila Sparkle",
-    "ingredients": ["1.5 oz tequila", "0.5 oz raspberry vodka", "1 oz lime juice", "0.5 oz agave syrup", "top lemon-lime soda"],
-    "description": "Berry blast meets tequila fizz for a bright, bubbly treat.",
     "dessert": false
   },
   {
