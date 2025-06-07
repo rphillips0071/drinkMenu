@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tropical Sunrise",
+    "ingredients": ["pineapple juice", "orange juice", "splash of grenadine", "sparkling water", "cherry"],
+    "description": "Pineapple juice, orange juice, splash of grenadine, topped with sparkling water and a cherry.",
+    "dessert": false
+  },
+  {
+    "name": "Coconut Lime Cooler",
+    "ingredients": ["coconut water", "fresh lime juice", "agave syrup", "ice"],
+    "description": "Coconut water, fresh lime juice, a touch of agave syrup, shaken and served over ice.",
+    "dessert": false
+  },
+  {
+    "name": "Lemon Basil Smash",
+    "ingredients": ["fresh lemon juice", "basil leaves", "simple syrup", "soda water", "ice"],
+    "description": "Fresh lemon juice, basil leaves muddled, simple syrup, soda water, served over ice.",
+    "dessert": false
+  },
+  {
+    "name": "Coconut Cream Chill",
+    "ingredients": ["2 oz coconut cream", "2 oz pineapple juice", "½ cup ice"],
+    "description": "Creamy, tropical, and ice-cold — a relaxing beach mocktail.",
+    "dessert": true
+  }
+]
+
