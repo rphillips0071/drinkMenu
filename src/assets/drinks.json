@@ -1,44 +1,157 @@
 [
   {
     "id": 1,
-    "name": "Lemongrass Collins",
-    "ingredients": ["2 oz gin", "1 oz lemon juice", "0.75 oz lemongrass syrup", "club soda to top"],
-    "description": "Bright, herbal, and citrusy — a refreshing highball that showcases fresh lemongrass.",
+    "name": "Canadian Old Fashioned",
+    "ingredients": [
+      "2 oz Canadian whisky",
+      "0.25 oz simple or demerara syrup",
+      "2 dashes Angostura bitters",
+      "orange peel"
+    ],
+    "description": "Smooth and approachable with gentle sweetness and citrus aroma—an easy entry into whiskey cocktails.",
     "dessert": false
   },
   {
     "id": 2,
-    "name": "Piña Colada",
-    "ingredients": ["2 oz white rum", "1.5 oz cream of coconut", "2 oz pineapple juice", "0.5 oz lime juice"],
-    "description": "A creamy, tropical blend of rum, coconut, and pineapple — the ultimate vacation drink.",
+    "name": "Canadian Manhattan",
+    "ingredients": [
+      "2 oz Canadian whisky",
+      "0.75 oz sweet vermouth",
+      "2 dashes Angostura bitters"
+    ],
+    "description": "Soft, lightly sweet, and elegant—classic Manhattan structure without the sharp whiskey bite.",
     "dessert": false
   },
   {
     "id": 3,
-    "name": "Frozen Mango Margarita",
-    "ingredients": ["2 oz tequila blanco", "1 oz triple sec", "1 oz lime juice", "1 oz mango purée", "0.5 oz agave syrup", "ice for blending"],
-    "description": "Sweet, tangy, and ice-cold — a vibrant twist on the classic margarita.",
-    "dessert": false
+    "name": "Chocolate Canadian Manhattan",
+    "ingredients": [
+      "2 oz Canadian whisky",
+      "0.75 oz sweet vermouth",
+      "0.25 oz Licor 43 Chocolate"
+    ],
+    "description": "Dark chocolate warmth layered over a smooth Manhattan base—rich but balanced.",
+    "dessert": true
   },
   {
     "id": 4,
-    "name": "Mojito",
-    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz simple syrup", "6–8 mint leaves", "club soda to top"],
-    "description": "A crisp Cuban classic with muddled mint, bright lime, and refreshing bubbles.",
+    "name": "Banana Rum Old Fashioned",
+    "ingredients": [
+      "2 oz dark or spiced rum",
+      "1 barspoon 99 Bananas",
+      "2 dashes Angostura bitters",
+      "orange peel"
+    ],
+    "description": "Subtle banana aroma with deep rum richness—playful yet grown-up.",
     "dessert": false
   },
   {
     "id": 5,
-    "name": "Pineapple Basil Smash",
-    "ingredients": ["2 oz white rum", "1 oz pineapple syrup or juice", "0.75 oz lime juice", "4–6 basil leaves", "0.5 oz simple syrup (if using juice)"],
-    "description": "Juicy pineapple and fresh basil come together for a tropical-herbal sipper with a patio vibe.",
+    "name": "House Margarita",
+    "ingredients": [
+      "2 oz tequila",
+      "1 oz fresh lime juice",
+      "0.5 oz orange liqueur",
+      "0.5 oz agave syrup"
+    ],
+    "description": "Bright, balanced, and refreshing. Available in Classic Lime, Peach, Pineapple, or Limoncello.",
     "dessert": false
   },
   {
     "id": 6,
-    "name": "Frozen Lemongrass Daiquiri",
-    "ingredients": ["2 oz white rum", "1 oz lime juice", "0.75 oz lemongrass syrup", "ice for blending"],
-    "description": "Frosty and zesty with a fragrant lemongrass kick — perfect for a summer evening.",
+    "name": "Raspberry Collins",
+    "ingredients": [
+      "1.5 oz raspberry vodka",
+      "0.75 oz lemon juice",
+      "0.5 oz simple syrup",
+      "soda water"
+    ],
+    "description": "Light, bubbly, and gently fruity with a crisp citrus finish.",
     "dessert": false
+  },
+  {
+    "id": 7,
+    "name": "Peach Collins",
+    "ingredients": [
+      "1.5 oz gin",
+      "0.5 oz peach whiskey",
+      "0.75 oz lemon juice",
+      "soda water"
+    ],
+    "description": "Soft peach sweetness lifted by lemon and fizz—easy and refreshing.",
+    "dessert": false
+  },
+  {
+    "id": 8,
+    "name": "Limoncello Collins",
+    "ingredients": [
+      "1.5 oz gin",
+      "1 oz limoncello",
+      "0.5 oz lemon juice",
+      "soda water"
+    ],
+    "description": "Bright Italian lemon with a smooth, sunny finish.",
+    "dessert": false
+  },
+  {
+    "id": 9,
+    "name": "Paloma-Style Highball",
+    "ingredients": [
+      "2 oz tequila",
+      "2 oz fresh grapefruit juice",
+      "0.5 oz lime juice",
+      "soda water",
+      "pinch of salt"
+    ],
+    "description": "Fresh-squeezed grapefruit balanced with lime and tequila—crisp and refreshing.",
+    "dessert": false
+  },
+  {
+    "id": 10,
+    "name": "Fresh Paloma",
+    "ingredients": [
+      "2 oz tequila",
+      "2 oz fresh grapefruit juice",
+      "0.5 oz agave syrup",
+      "soda water"
+    ],
+    "description": "Juicy, lightly sweet grapefruit with a clean tequila backbone.",
+    "dessert": false
+  },
+  {
+    "id": 11,
+    "name": "Grapefruit Gin Spritz",
+    "ingredients": [
+      "1.5 oz Old Tom gin",
+      "2 oz fresh grapefruit juice",
+      "0.5 oz lemon juice",
+      "0.5 oz simple syrup",
+      "soda water"
+    ],
+    "description": "Floral gin and fresh grapefruit in a light, elegant spritz.",
+    "dessert": false
+  },
+  {
+    "id": 12,
+    "name": "Amaretto Sour",
+    "ingredients": [
+      "1.5 oz amaretto",
+      "0.75 oz Canadian whisky",
+      "0.75 oz lemon juice",
+      "egg white"
+    ],
+    "description": "Velvety, nutty, and perfectly balanced with a silky foam top.",
+    "dessert": true
+  },
+  {
+    "id": 13,
+    "name": "Peach Sunset",
+    "ingredients": [
+      "2 oz peach whiskey",
+      "3 oz orange juice",
+      "0.25 oz grenadine"
+    ],
+    "description": "Layered and visually stunning with sweet peach and citrus flavors.",
+    "dessert": true
   }
 ]
