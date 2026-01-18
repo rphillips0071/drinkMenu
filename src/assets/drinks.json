@@ -1,157 +1,167 @@
 [
   {
     "id": 1,
-    "name": "Canadian Old Fashioned",
+    "name": "Pineapple Rum Sour",
     "ingredients": [
-      "2 oz Canadian whisky",
-      "0.25 oz simple or demerara syrup",
-      "2 dashes Angostura bitters",
-      "orange peel"
+      "2 oz white rum",
+      "1 oz fresh pineapple juice",
+      "0.75 oz fresh lime juice",
+      "0.5 oz simple syrup"
     ],
-    "description": "Smooth and approachable with gentle sweetness and citrus aroma—an easy entry into whiskey cocktails.",
+    "description": "Bright and juicy pineapple balanced with lime—tropical, refreshing, and smooth.",
     "dessert": false
   },
   {
     "id": 2,
-    "name": "Canadian Manhattan",
+    "name": "Peach Rum Rock",
     "ingredients": [
-      "2 oz Canadian whisky",
-      "0.75 oz sweet vermouth",
-      "2 dashes Angostura bitters"
+      "2 oz white rum",
+      "0.5 oz peach whiskey",
+      "0.75 oz fresh lemon juice",
+      "0.25 oz simple syrup"
     ],
-    "description": "Soft, lightly sweet, and elegant—classic Manhattan structure without the sharp whiskey bite.",
+    "description": "Soft peach sweetness with a fresh citrus snap—easy and very drinkable.",
     "dessert": false
   },
   {
     "id": 3,
-    "name": "Chocolate Canadian Manhattan",
+    "name": "Limoncello Pineapple Rock",
     "ingredients": [
-      "2 oz Canadian whisky",
-      "0.75 oz sweet vermouth",
-      "0.25 oz Licor 43 Chocolate"
+      "1.5 oz white rum",
+      "1 oz fresh pineapple juice",
+      "0.5 oz limoncello",
+      "0.25 oz fresh lime juice"
     ],
-    "description": "Dark chocolate warmth layered over a smooth Manhattan base—rich but balanced.",
-    "dessert": true
+    "description": "Bright lemon and tropical pineapple come together in a sunny, smooth sip.",
+    "dessert": false
   },
   {
     "id": 4,
-    "name": "Banana Rum Old Fashioned",
+    "name": "Honey Grapefruit Rum Rock",
     "ingredients": [
-      "2 oz dark or spiced rum",
-      "1 barspoon 99 Bananas",
-      "2 dashes Angostura bitters",
-      "orange peel"
+      "2 oz white rum",
+      "2 oz fresh grapefruit juice",
+      "0.5 oz honey syrup"
     ],
-    "description": "Subtle banana aroma with deep rum richness—playful yet grown-up.",
+    "description": "Fresh grapefruit softened with honey for a lightly sweet, citrus-forward drink.",
     "dessert": false
   },
   {
     "id": 5,
-    "name": "House Margarita",
+    "name": "Pineapple Rum Highball",
+    "ingredients": [
+      "2 oz white rum",
+      "2 oz fresh pineapple juice",
+      "0.5 oz fresh lime juice",
+      "soda water"
+    ],
+    "description": "Light, fizzy, and tropical—perfectly refreshing without being too sweet.",
+    "dessert": false
+  },
+  {
+    "id": 6,
+    "name": "Peach Lemon Rum Spritz",
+    "ingredients": [
+      "1.5 oz white rum",
+      "0.5 oz peach whiskey",
+      "0.75 oz fresh lemon juice",
+      "soda water"
+    ],
+    "description": "Bright lemon fizz with soft peach notes—easy-drinking and refreshing.",
+    "dessert": false
+  },
+  {
+    "id": 7,
+    "name": "Limoncello Rum Spritz",
+    "ingredients": [
+      "1.5 oz white rum",
+      "0.75 oz limoncello",
+      "0.5 oz fresh lemon juice",
+      "soda water"
+    ],
+    "description": "Sweet lemon brightness with a clean rum backbone—sunny and smooth.",
+    "dessert": false
+  },
+  {
+    "id": 8,
+    "name": "Tropical Citrus Cooler",
+    "ingredients": [
+      "1.5 oz white rum",
+      "1 oz fresh orange juice",
+      "1 oz fresh pineapple juice",
+      "soda water"
+    ],
+    "description": "Fresh citrus and pineapple blended into a light, happy tropical cooler.",
+    "dessert": false
+  },
+  {
+    "id": 9,
+    "name": "Classic Lime Margarita",
     "ingredients": [
       "2 oz tequila",
       "1 oz fresh lime juice",
       "0.5 oz orange liqueur",
       "0.5 oz agave syrup"
     ],
-    "description": "Bright, balanced, and refreshing. Available in Classic Lime, Peach, Pineapple, or Limoncello.",
-    "dessert": false
-  },
-  {
-    "id": 6,
-    "name": "Raspberry Collins",
-    "ingredients": [
-      "1.5 oz raspberry vodka",
-      "0.75 oz lemon juice",
-      "0.5 oz simple syrup",
-      "soda water"
-    ],
-    "description": "Light, bubbly, and gently fruity with a crisp citrus finish.",
-    "dessert": false
-  },
-  {
-    "id": 7,
-    "name": "Peach Collins",
-    "ingredients": [
-      "1.5 oz gin",
-      "0.5 oz peach whiskey",
-      "0.75 oz lemon juice",
-      "soda water"
-    ],
-    "description": "Soft peach sweetness lifted by lemon and fizz—easy and refreshing.",
-    "dessert": false
-  },
-  {
-    "id": 8,
-    "name": "Limoncello Collins",
-    "ingredients": [
-      "1.5 oz gin",
-      "1 oz limoncello",
-      "0.5 oz lemon juice",
-      "soda water"
-    ],
-    "description": "Bright Italian lemon with a smooth, sunny finish.",
-    "dessert": false
-  },
-  {
-    "id": 9,
-    "name": "Paloma-Style Highball",
-    "ingredients": [
-      "2 oz tequila",
-      "2 oz fresh grapefruit juice",
-      "0.5 oz lime juice",
-      "soda water",
-      "pinch of salt"
-    ],
-    "description": "Fresh-squeezed grapefruit balanced with lime and tequila—crisp and refreshing.",
+    "description": "Bright, crisp lime and tequila with just enough sweetness for balance.",
     "dessert": false
   },
   {
     "id": 10,
-    "name": "Fresh Paloma",
+    "name": "Peach Margarita",
     "ingredients": [
       "2 oz tequila",
-      "2 oz fresh grapefruit juice",
-      "0.5 oz agave syrup",
-      "soda water"
+      "1 oz fresh lime juice",
+      "0.5 oz peach whiskey",
+      "0.5 oz agave syrup"
     ],
-    "description": "Juicy, lightly sweet grapefruit with a clean tequila backbone.",
+    "description": "Stone-fruit sweetness layered over a classic margarita base.",
     "dessert": false
   },
   {
     "id": 11,
-    "name": "Grapefruit Gin Spritz",
+    "name": "Pineapple Margarita",
     "ingredients": [
-      "1.5 oz Old Tom gin",
-      "2 oz fresh grapefruit juice",
-      "0.5 oz lemon juice",
-      "0.5 oz simple syrup",
-      "soda water"
+      "2 oz tequila",
+      "0.75 oz fresh pineapple juice",
+      "0.75 oz fresh lime juice",
+      "0.5 oz agave syrup"
     ],
-    "description": "Floral gin and fresh grapefruit in a light, elegant spritz.",
+    "description": "Juicy pineapple and lime with a smooth tequila finish—tropical and bright.",
     "dessert": false
   },
   {
     "id": 12,
-    "name": "Amaretto Sour",
+    "name": "Limoncello Margarita",
     "ingredients": [
-      "1.5 oz amaretto",
-      "0.75 oz Canadian whisky",
-      "0.75 oz lemon juice",
-      "egg white"
+      "2 oz tequila",
+      "0.75 oz fresh lime juice",
+      "0.75 oz limoncello"
     ],
-    "description": "Velvety, nutty, and perfectly balanced with a silky foam top.",
-    "dessert": true
+    "description": "Fresh lime and sweet Italian lemon combine for a vibrant citrus margarita.",
+    "dessert": false
   },
   {
     "id": 13,
-    "name": "Peach Sunset",
+    "name": "Mai Tai",
     "ingredients": [
-      "2 oz peach whiskey",
-      "3 oz orange juice",
-      "0.25 oz grenadine"
+      "1.5 oz aged or dark rum",
+      "0.5 oz orange liqueur",
+      "0.75 oz fresh lime juice",
+      "0.25 oz orgeat or almond syrup"
     ],
-    "description": "Layered and visually stunning with sweet peach and citrus flavors.",
+    "description": "Classic tiki balance of rum, lime, and almond—rich, citrusy, and iconic.",
+    "dessert": false
+  },
+  {
+    "id": 14,
+    "name": "Piña Colada",
+    "ingredients": [
+      "2 oz white rum",
+      "2 oz pineapple juice",
+      "1.5 oz cream of coconut"
+    ],
+    "description": "Creamy, tropical, and indulgent—pineapple and coconut in perfect harmony.",
     "dessert": true
   }
 ]
